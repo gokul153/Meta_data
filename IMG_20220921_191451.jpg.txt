@@ -1,0 +1,12 @@
+ImageWidth               : 3000
+ImageLength              : 4000
+GPSInfo                  : 3601
+ResolutionUnit           : 2
+ExifOffset               : 212
+Make                     : Xiaomi
+Model                    : M2010J19CI
+DateTime                 : 2022:09:21 19:14:53
+Orientation              : 1
+YCbCrPositioning         : 1
+XResolution              : 72.0
+YResolution              : 72.0

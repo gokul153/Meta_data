@@ -1,0 +1,14 @@
+GPSInfo                  : 2286
+ResolutionUnit           : 2
+ExifOffset               : 228
+Make                     : Apple
+Model                    : iPhone 12
+Software                 : 15.6.1
+Orientation              : 6
+DateTime                 : 2022:09:03 13:03:13
+YCbCrPositioning         : 1
+XResolution              : 72.0
+YResolution              : 72.0
+HostComputer             : iPhone 12
+From Gpsinformation 
+Goverment College of Engineering, Muttathara, Subroad Or Resedential Road, Beemapally, Thiruvananthapuram, Kerala, 695001, India
